@@ -1,4 +1,3 @@
-<h3 align="center">Creating personal projects</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
